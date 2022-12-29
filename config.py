@@ -1,0 +1,11 @@
+Environemnt = "Cartpole"
+Architecture = "1_5"
+penalty1 = -1000
+penalty2 = -3000
+generation = 10000
+init_size = 1000
+pop_size = 100
+selection_num = 200
+selction_pressure = 3
+Xover_alpha = 0.5
+mu_prob = 0.015
