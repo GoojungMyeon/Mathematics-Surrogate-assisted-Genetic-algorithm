@@ -16,15 +16,15 @@ The experimental codes using SGAs from the paper that was submitted to [Mathemat
 > Cart-pole Balancing
 
 - SVR *step 1*
-![Alt Text](./gifs/cart_2.gif)
+![FRONT](./gifs/GA_02_best.gif)
 
 - SVR *step 2*
-![Alt Text](./gifs/cart_3.gif)
+![FRONT](./gifs/GA_03_best.gif)
 
 - SVR *step 3*
-![Alt Text](./gifs/cart_4.gif)
+![FRONT](./gifs/GA_04_best.gif)
 
 > Lunar Lander
 
 - SVR *step 3*
-![Alt Text](./gifs/lunar_1.gif)
+![FRONT](./gifs/best_lander.gif)
